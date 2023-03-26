@@ -4,4 +4,5 @@
 
 ### This repository contains photos/evidences/proofs of my actual activity while working on Sberbank School 21 projects.
 
-## I am ready to demonstrate the GitLab account online if necessary.
+## For HRs
+I am ready to demonstrate the GitLab account and answer all Your questions.
